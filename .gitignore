@@ -4,6 +4,7 @@
 *.eml
 out/
 .DS_Store
+*.lockb
 .svn
 log/*.log
 tmp/**
