@@ -1,4 +1,4 @@
-# Laboratoire Veille Technologique (LabVeilTech 2024)
+# Laboratoire Veille Technologique (LabVeilTech 2025)
 
 ## How to run the slides
 - Open index.html, and enjoy
