@@ -86,6 +86,9 @@ $selectionBackgroundColor:#f6edf8;
 .step-name{ font-size: 0.4em; }
 
 mark{
+  display: inline-block;
+  padding: 0.2em;
+  border-radius: 0.6em;
   background-color: $linkColor;
   color: $mainColor;
 }

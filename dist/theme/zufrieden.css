@@ -57,7 +57,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-heading4-size: 1em;
   --r-code-font: monospace;
   --r-link-color: #b300f9;
-  --r-link-color-dark: #7c00ad;
+  --r-link-color-dark: rgb(124.0060240964, 0, 172.5);
   --r-link-color-hover: #f6edf8;
   --r-selection-background-color: #f6edf8;
   --r-selection-color: #fff;
@@ -408,6 +408,9 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 }
 
 mark {
+  display: inline-block;
+  padding: 0.2em;
+  border-radius: 0.6em;
   background-color: #b300f9;
   color: #f6edf8;
 }
